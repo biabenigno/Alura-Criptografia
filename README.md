@@ -3,8 +3,11 @@
 ## Descrição do Projeto
 
 Este projeto é uma aplicação web projetada para criptografar e descriptografar textos. Ele utiliza a codificação Base64 para transformar o texto inserido em uma string codificada e vice-versa.
+
 Desenvolvido como parte do curso "Praticando Lógica de Programação: Challenge Decodificador de Texto" da Alura pela ONE, esta aplicação foi ideal para aprender sobre criptografia básica e criação de páginas web simples.
-Com isso, concluo a formação Iniciante em Programação T7 - ONE ! Conheça: https://www.oracle.com/br/education/oracle-next-education/
+
+Com isso, concluo a formação Iniciante em Programação T7 - ONE! Conheça mais sobre o curso [aqui](https://www.oracle.com/br/education/oracle-next-education/) !!
+
 
 ## Funcionalidades e Demonstração da Aplicação
 
@@ -27,8 +30,3 @@ Depois de clonar o repositório, abra o arquivo index.html em seu navegador para
 - **HTML5**: Estruturação da página.
 - **CSS3**: Estilização da página e design responsivo.
 - **JavaScript**: Implementação das funcionalidades de criptografia e descriptografia.
-
-
-
-
-
