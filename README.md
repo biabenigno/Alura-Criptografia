@@ -22,6 +22,7 @@ Você pode acessar e testar a aplicação diretamente em seu navegador, ou clona
 
 Para clonar o repositório, use o seguinte comando:
 
+```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
 
 Depois de clonar o repositório, abra o arquivo index.html em seu navegador para testar a aplicação.
