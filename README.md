@@ -1,16 +1,5 @@
 # Criptografia Simples
 
-## Índice
-
-1. [Descrição do Projeto](#descrição-do-projeto)
-2. [Status do Projeto](#status-do-projeto)
-3. [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-4. [Acesso ao Projeto](#acesso-ao-projeto)
-5. [Tecnologias Utilizadas](#tecnologias-utilizadas)
-6. [Pessoas Contribuidoras](#pessoas-contribuidoras)
-7. [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras-do-projeto)
-8. [Licença](#licença)
-
 ## Descrição do Projeto
 
 Este projeto é uma aplicação web projetada para criptografar e descriptografar textos. Ele utiliza a codificação Base64 para transformar o texto inserido em uma string codificada e vice-versa.
